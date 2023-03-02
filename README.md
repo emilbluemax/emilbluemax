@@ -2,7 +2,12 @@
 
 <h3 align="center">👋 Hello! I'm Emil.</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/emil-bluemax-212272210/">LinkedIn</a>
+</p>
+
  ---
+ 
  <p align="centre">
   Currently a <b>Student</b> pursuing B.Tech in PES University <br>
   I enjoy working in the domain of <b>Machine learning</b>  <br>

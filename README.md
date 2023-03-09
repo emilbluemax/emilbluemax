@@ -9,7 +9,7 @@
  ---
  
  <p align="centre">
-  Currently a <b>Student</b> pursuing B.Tech in PES University <br>
+  Currently a <b>Student</b> pursuing B.Tech, 6th Sem in PES University <br>
   I enjoy working in the domain of <b>Machine learning</b>  <br>
   <b>Well versed</b> in Python, C++, MySQL, PHP, HTML, CSS, Javascript<br>
   

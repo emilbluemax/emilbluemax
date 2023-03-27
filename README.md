@@ -1,35 +1,17 @@
+# 💫 About Me:
+Currently a Student pursuing B.Tech, 6th Sem in PES University<br>I enjoy working in the domain of Machine learning<br><br>Always eager to learn new things ^^<br><br>🌱 I’m currently learning - graph networks, cloud computing
 
 
-<h3 align="center">👋 Hello! I'm Emil.</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emil-bluemax) 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emil-bluemax-212272210/">LinkedIn</a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
 
- ---
- 
- <p align="centre">
-  Currently a <b>Student</b> pursuing B.Tech, 6th Sem in PES University <br>
-  I enjoy working in the domain of <b>Machine learning</b>  <br>
-  <b>Well versed</b> in Python, C++, MySQL, PHP, HTML, CSS, Javascript<br>
-  
-  Always eager to learn new things ^^
-  
-  🌱 I’m currently learning - graph networks, cloud computing
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilbluemax&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=emilbluemax&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!--
-**emilbluemax/emilbluemax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
